@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+=======
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+>>>>>>> d21c2a34d7d68b2e4def871e695dcd35aa8c9359
